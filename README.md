@@ -8,4 +8,4 @@ Each page included a nav bar from which you were able to access all available pa
 
 I decided to add one of the Bootswatch themes to make it look more professional.
 
-The only issue was that I cant seem to get it to come up on GitPages. I am not sure why. I have tried to take out all unnecessary files, and renamed the landing.html to index.html, but it just will not come up, but i put the link to it anyway.
+The only issue was that I cant seem to get it to come up on GitPages. I am not sure why. I have tried to take out all unnecessary files, and renamed the landing.html to index.html, but it just will not come up, but I put the link to it anyway.
